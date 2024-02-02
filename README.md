@@ -4,7 +4,7 @@ Karabiner setting for using keyboard like Vim style
 
 ## How to apply
 
-Place 'karabiner.json' file into `~/.config/karabiner` folder.
+Place `karabiner.json` file into `~/.config/karabiner` folder.
 
 ```bash
 $ cp ./karabiner.json ~/.config/karabiner/karabiner.json
